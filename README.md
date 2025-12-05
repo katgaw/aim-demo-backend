@@ -2,7 +2,7 @@
 
 ## <h1 align="center" id="heading"> 👋 Hot Mess Coach — Simple LLM App</h1>
 
-A tiny FastAPI app with a minimal HTML form that calls the OpenAI Chat Completions API.
+A small FastAPI app with a minimal HTML form that calls the OpenAI Chat Completions API.
 
 ### Quick Start
 

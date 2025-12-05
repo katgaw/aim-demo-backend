@@ -61,3 +61,5 @@ Notes:
 - You can place a `.env` file at the repo root with `OPENAI_API_KEY=...`.
 - The app entrypoint is `api/index.py` (FastAPI). Vercel deploy uses the same file.
 
+**Summary:** A small FastAPI app with a minimal HTML form that calls the OpenAI Chat Completions API.
+
